@@ -15,6 +15,9 @@
 
 - [`references/vacancy-requirements-raw.md`](references/vacancy-requirements-raw.md) — неизменённый присланный список требований.
 - [`references/requirements-map.md`](references/requirements-map.md) — темы для первого прохода, без выдуманной частотности по вакансиям.
+- [`references/vacancy-sample-2026-09-29.md`](references/vacancy-sample-2026-09-29.md) — ручная выборка из 27 PHP backend-вакансий с URL, статусом, требованиями и оговорками для проверки глазами.
+- [`references/vacancy-language-2026-09-29.md`](references/vacancy-language-2026-09-29.md) — короткие проверенные фразы и конкретные рабочие задачи из тех же вакансий для ATS/LLM-сопоставления.
+- [`references/vacancy-bank-2026-09-29.md`](references/vacancy-bank-2026-09-29.md) — локальный построчный конспект задач, обязательных требований и плюсов каждой вакансии; основной вход для coverage без повторного чтения сайтов.
 - [`references/resume-context-schema.sql`](references/resume-context-schema.sql) и [`references/resume-context-queries.sql`](references/resume-context-queries.sql) — структура и примеры запросов к локальному SQLite-корпусу. Сам заполненный `local/resume-context.sqlite` в Git не попадает.
 - [`references/SOURCES.md`](references/SOURCES.md) — происхождение, ограничения и контрольные суммы источников.
 - [`templates/`](templates/) — `resume.md`, `claim-ledger.md`, `interview-legend.md`, `vacancy-coverage.md`.
