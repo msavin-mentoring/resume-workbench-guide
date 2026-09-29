@@ -1,0 +1,6 @@
+candidates/*/raw/
+candidates/*/sources/
+candidates/*/*.pdf
+candidates/*/*.sqlite
+local/
+references/*.sqlite
